@@ -1,4 +1,4 @@
-# 💻 Maria Vinchy A - Developer Portfolio
+# 💻 Maria Vinchy A - Portfolio
 
 A clean, responsive personal portfolio website built with **HTML** and **Tailwind CSS**, showcasing my skills, projects, education, and certifications as an aspiring **Python Full-Stack Developer**.
 
